@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document
+        jsControlled="true"
+        jsController="StartLayer"
+        resolution="default"
+        >
+
+    <Resolutions>
+        <Resolution centeredOrigin="false" ext="iphone" height="1280" width="720" name="default" scale="1"/>
+        <Resolution centeredOrigin="false" ext="iphone" height="720" width="1280" name="default1" scale="1"/>
+    </Resolutions>
+
+    <Animations>
+        <Animation autoPlay="true"
+                   id="0"
+                   name="Default Timeline"
+                   length="10"
+                   chainedId="0"
+                   offset="0.0"
+                   position="0.0"
+                   resolution="30"
+                   scale="128">
+            <CallbackChannel>
+            </CallbackChannel>
+            <SoundChannel>
+            </SoundChannel>
+        </Animation>
+
+    </Animations>
+
+    <Layer
+            positionX="0" positionY="0"
+            width="100" height="100" sizeType="Percent"
+            anchorPointX="0.5" anchorPointY="0.5" ignoreAnchorPoint="true"
+            scaleX="1" scaleY="1"
+            touchEnabled="true" positionType="LeftBottom">
+
+        <Node positionType="LeftBottom" positionX="0" positionY="0" anchorPointX="0"
+              anchorPointY="0" var="startNode" target="Doc">
+            <!--<Sprite positionType="LeftBottom" positionX="180" positionY="960" anchorPointX="0.5"
+                    anchorPointY="0.5" src="res/whiteBlock.png" width="300.0" height="500.0" scaleX="1.2"
+                    scaleY="1.28"/>
+            <Sprite positionType="LeftBottom" positionX="540" positionY="320" anchorPointX="0.5" anchorPointY="0.5"
+                    src="res/whiteBlock.png" width="300.0" height="500.0" scaleX="1.2" scaleY="1.28"/>-->
+        </Node>
+    </Layer>
+
+
+</Document>
