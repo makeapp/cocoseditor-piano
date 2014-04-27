@@ -8,13 +8,10 @@ Don't Tap The White Tile;
 
 &nbsp;
 
-
-<a href="http://blog.makeapp.co/?attachment_id=628" rel="attachment wp-att-628"><img class="alignnone size-full wp-image-628" alt="QQ截图20140427212033" src="http://blog.makeapp.co/wp-content/uploads/2014/04/QQ截图20140427212033.png" width="1357" height="719" /></a>
+<a href="http://blog.makeapp.co/?attachment_id=628" rel="attachment wp-att-628"><img class="alignnone size-full wp-image-628" alt="QQ截图20140427212033" src="http://blog.makeapp.co/wp-content/uploads/2014/04/QQ截图20140427212033.png" width="700" height="400" /></a>
 
 &nbsp;
-
-
-<a href="http://blog.makeapp.co/?attachment_id=629" rel="attachment wp-att-629"><img class="alignnone size-full wp-image-629" alt="QQ截图20140427212133" src="http://blog.makeapp.co/wp-content/uploads/2014/04/QQ截图20140427212133.png" width="1341" height="728" /></a>
+<a href="http://blog.makeapp.co/?attachment_id=629" rel="attachment wp-att-629"><img class="alignnone size-full wp-image-629" alt="QQ截图20140427212133" src="http://blog.makeapp.co/wp-content/uploads/2014/04/QQ截图20140427212133.png" width="700" height="400" /></a>
 
 &nbsp;
 
